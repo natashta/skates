@@ -1000,6 +1000,7 @@ li:last-of-type .experts__text {
     background-image: none;
     margin: 0;
     padding-top: 0;
+    padding-bottom: 0;
   }
 
   .tab__item {
